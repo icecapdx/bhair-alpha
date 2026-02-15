@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/32.0">
+  <id>BrawlhallaAir</id>
+  <versionNumber>1.0</versionNumber>
+  <filename>BrawlhallaAir</filename>
+
+  <name>BrawlhallaAir</name>
+  <description></description>
+  <copyright></copyright>
+
+  <initialWindow>
+    <title>BrawlhallaAir</title>
+    <content>BrawlhallaAir.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>true</resizable>
+    <renderMode>direct</renderMode>
+    <width>1920</width>
+    <height>1080</height>
+  </initialWindow>
+
+</application>
