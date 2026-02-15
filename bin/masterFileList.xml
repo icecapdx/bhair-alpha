@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MasterFileList>
+  <File  Version="aaa" Stage="Required"  Size="100"	 Name="UI_1.swf" />
+  <File  Version="aaa" Stage="Required"  Size="1"	 Name="Animation_Player.swf" />
+  
+  <File  Version="aaa" Stage="Core"  Size="5072" Name="sounds/Sound.swf" />
+
+  <File  Version="aaa" Stage="Game"  Size="2"	 Name="Game.swz" />
+  <File  Version="aaa" Stage="Game"  Size="1"	 Name="Gfx_Player.swf" />
+  <File  Version="aaa" Stage="Game"  Size="1"	 Name="Gfx_Weapons.swf" />
+  <File  Version="aaa" Stage="Game"  Size="100"	 Name="SFX_1.swf" />
+
+  <Level Version="aaa"         Size="2305" Name="Level_Ruins.swf" />
+</MasterFileList>
